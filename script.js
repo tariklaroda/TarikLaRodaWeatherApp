@@ -1,6 +1,6 @@
 const kelvinConstant = 273.15;
 function getWeather() {
-  const apiKey = "e737d73f3d3ddfa447c6c5be6fbb056b";
+  const apiKey = "YOUR-API-KEY";
   const city = document.getElementById("city").value;
 
   if (!city) {
