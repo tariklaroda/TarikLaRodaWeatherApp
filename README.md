@@ -1,5 +1,5 @@
 # WeatherApp
- Tells you the weather in a specified city.
+ Tells you the weather in a specified city. Indicates if you need to wear a coat and gloves.
 
  # Technologies Used
  - HTML/CSS
